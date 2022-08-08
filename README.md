@@ -36,6 +36,11 @@ study
 ## Projects
 
 CAPES project
+example-voting-app 
+example-voting-app 
+selenium-project 
+pipelines-dotnet-core
+api-test-dotnet
 
 <!-- ### Footer
 
